@@ -1,0 +1,35 @@
+{
+  "short_name": "magic",
+  "name": "magic - 个人意识空间",
+  "icons": [
+    {
+      "src": "/assets/.aistudio/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/.aistudio/icon.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/assets/.aistudio/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "/assets/.aistudio/icon.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0d0d0d",
+  "theme_color": "#0d0d0d",
+  "display": "standalone",
+  "orientation": "portrait"
+}
